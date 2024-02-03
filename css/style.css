@@ -592,6 +592,7 @@ button:focus{
     background-color: #535c68;
 }
 .family-info{
+	text-align: center;
 	padding: 25px 30px;
 	background-color: #f1f1f1;
 }
